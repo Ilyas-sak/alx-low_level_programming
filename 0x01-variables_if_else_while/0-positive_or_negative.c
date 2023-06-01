@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdio.h>
 
-/* Function that prints whether random number n is positive, negative or zero */
+/* Function that prints whether random number n is positive, negative or zero
 int positive_or_negative(int n)
 {
    if (n > 0)
